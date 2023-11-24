@@ -1,7 +1,7 @@
 
 ## About The Project
 
-This is a basic project where you can have a heads start on your new upcomming discord bot.
+This is a simple line duplicator remover. It is not completely finished so be aware.
 
 # Follow these simple steps to get the simple discord bot up and running:
 
